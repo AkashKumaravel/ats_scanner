@@ -1,0 +1,5 @@
+google.generativeai
+PyPDF2
+python-dotenv
+streamlit
+streamlit-option-menu
